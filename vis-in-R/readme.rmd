@@ -1,0 +1,14 @@
+---
+title: "README"
+author: "@codementum"
+date: November 28, 2017
+output: rmarkdown::github_document
+---
+ 
+vis-in-R is ...
+
+```{r}
+read.csv("../mtcars.csv", header = TRUE)
+```
+
+ 
